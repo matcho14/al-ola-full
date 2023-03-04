@@ -471,6 +471,7 @@ color: #757775;
     flex-direction: row;
     justify-content: space-between;
 }
+
 .serv-order-contain form .left ,
 .serv-order-contain form .right
  {
@@ -498,6 +499,10 @@ color: #757775;
         flex-direction: row;
         justify-content: space-between;
         margin-right: 10px;
+        width: 90%;
+    }
+    .serv-order-contain form .first-row input{
+        width: 150px;
     }
 }
 .serv-order-contain form .left span p,
